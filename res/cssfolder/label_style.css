@@ -1,0 +1,75 @@
+.content-header > h1 {
+    margin: 0;
+    font-size: 24px;
+    color: #1595C3;
+    font-family: AdelleBasicBold, Cambria, Georgia, Times,Times New Roman;
+}
+
+#resp_img{
+	max-width:100%;
+	height:auro;
+}
+
+h3{
+    color: #248692;
+    font-weight: bold;
+    font-family: AdelleBasicBold, Cambria, Georgia, Times,Times New Roman;
+    text-align: center;
+    line-height: 1;
+    font-size:24px;
+}
+.inst_name {
+    color: #3F3F3F;
+    font-weight: bold;
+    font-family: AdelleBasicBold, Cambria, Georgia, Times,Times New Roman;
+    font-size: 20px;
+}
+
+/*========== label font size ==============*/
+.label-xsmall {
+  vertical-align: super;
+  font-size: x-small;
+}
+
+.label-small {
+  vertical-align: super;
+  font-size: small;
+}
+
+.label-medium {
+  vertical-align: super;
+  font-size: medium;
+}
+
+.label-large {
+  vertical-align: super;
+  font-size: large;
+}
+
+.label-bs {
+  vertical-align: super;
+}
+
+.star {
+    color: red;
+    font-weight: bold;
+}
+
+.hash {
+    color: green;
+    font-weight: bold;
+}
+
+.btn-outline-success {
+  color: #1de9b6;
+  background-color: transparent;
+  background-image: none;
+  border-color: #1de9b6;
+}
+
+.btn-outline-danger {
+  color: #f44236;
+  background-color: transparent;
+  background-image: none;
+  border-color: #f44236;
+}
