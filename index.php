@@ -1,4 +1,8 @@
+
+<html>
+    <body>
 <?php
 echo "Hi";
-dfdgdf
 ?>
+</body>
+</html>
